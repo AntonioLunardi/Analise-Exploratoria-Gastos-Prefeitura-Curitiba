@@ -1,5 +1,5 @@
 ## **# Análise exploratória de dados dos gastos da prefeitura de Curitiba (de janeiro a setembro de 2022).**
-Foram utilizadas as bibliotecas pandas e seaborn
+Bibliotecas: pandas e seaborn
 
 ### A política de transparência adotada pela prefeitura permite que façam-se análises de dados. O intuito do estudo é de conscientizar a população sobre como se dão os gastos do município. O entendimento das prioridades da verba do estado é muito importante para a condução de políticas públicas.
 
