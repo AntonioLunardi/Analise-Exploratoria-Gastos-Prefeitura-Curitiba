@@ -1,5 +1,12 @@
 ## **# Análise exploratória de dados dos gastos da prefeitura de Curitiba (de janeiro a setembro de 2022).**
-Bibliotecas: pandas e seaborn
+
+Rápida descrição do objetivo de fazer esse projeto
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Gastos-Prefeitura-Curitiba**
+| :label: Tecnologias | Python, pandas, seaborn
+
 
 ![](/cwb2.jpg#vitrinedev)
 
