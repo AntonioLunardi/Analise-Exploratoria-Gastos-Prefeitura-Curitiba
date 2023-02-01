@@ -1,4 +1,4 @@
-## **# Análise exploratória de dados dos gastos da prefeitura de Curitiba (de janeiro a setembro de 2022).**
+## **# Limpeza e análise exploratória de dados dos gastos da prefeitura de Curitiba (de janeiro a setembro de 2022).**
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
