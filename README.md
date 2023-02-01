@@ -4,7 +4,7 @@ O entendimento das prioridades da verba do estado é muito importante para a con
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Gastos-Prefeitura-Curitiba**
+| :sparkles: Nome        | **Analise-Exploratoria-Gastos-Prefeitura-Curitiba**
 | :label: Tecnologias | Python, pandas, seaborn
 
 
