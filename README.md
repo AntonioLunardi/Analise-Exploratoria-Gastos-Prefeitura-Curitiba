@@ -1,5 +1,6 @@
 # Análise Exploratória dos Gastos da Prefeitura de Curitiba
-### Limpeza e análise exploratória de dados dos gastos da prefeitura de Curitiba (de janeiro a setembro de 2022).
+### (Janeiro a setembro de 2022)
+O entendimento das prioridades da verba do estado é muito importante para a condução de políticas públicas. O objetivo do estudo é de conscientizar a população sobre como se dão os gastos do município através de uma análise exploratória.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
